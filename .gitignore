@@ -1,0 +1,15 @@
+# node_modules directory
+node_modules/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Environment specific files
+.env
+.env.local
+.env.*.local
