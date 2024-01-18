@@ -10,7 +10,7 @@ describe('Flight Search App API Tests', () => {
       response = await axios.get('https://flights-api.buraky.workers.dev/');
       
     } catch (error) {
-      console.error('Error during API request:', error.message);
+      console.error('Error occurred in before all hook:', error.message);
       throw error; // If an error occurs in this hook, the test suite automatically fails, so the try and catch blocks are not necessary. But I wanted to handle the error.
     }
   });
