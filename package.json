@@ -7,6 +7,9 @@
   "jest": {
     "testEnvironment": "node"
   },
+  "json": {
+    "enabled": true
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",

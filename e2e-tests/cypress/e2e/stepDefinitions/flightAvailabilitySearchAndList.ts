@@ -1,5 +1,5 @@
 import { Given, When, Then } from "@badeball/cypress-cucumber-preprocessor";
-import searchPage from "../../pageObjects/searchPage.ts";
+import searchPage from "../pageObjects/searchPage.ts";
 
 const search = new searchPage();
 

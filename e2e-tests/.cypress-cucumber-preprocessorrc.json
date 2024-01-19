@@ -1,0 +1,7 @@
+{
+    "stepDefinitions": "cypress/e2e/stepDefinitions/**/*.ts",
+    "json": {
+        "enabled": true,
+        "output": "cypress/reports/result.json"
+    }
+}

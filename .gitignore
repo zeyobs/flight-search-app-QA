@@ -15,6 +15,7 @@ node_modules/
 .env.*.local
 
 # Test Evidences
+reports/
 screenshots/
 *.png
 *.jpg
