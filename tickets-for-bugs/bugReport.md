@@ -8,7 +8,7 @@
 ## Steps to Reproduce
 
 1. The user is on the flight search page
-2. The user enters '<From>' and '<To>' values to the flight search fields
+2. The user enters 'From' and 'To' values to the flight search fields
 3. The system should not allow to the search with identical values
 
   Examples:
